@@ -1,0 +1,3 @@
+# Uma linha por livro. Campos separados por |  (apague este exemplo quando for usar)
+# Título | Autor | Editora ou selo | gêneros | preço do livro | outros preços
+# O Morro dos Ventos Uivantes | Emily Brontë | Prime Classics | romance, clássicos | 49,99 | ebook 19,99
