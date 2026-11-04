@@ -1,7 +1,7 @@
 {
  "total": 745,
- "copiadas": 740,
- "falhas": 5,
+ "copiadas": 745,
+ "falhas": 0,
  "arquivos": [
   "1779927309955-6p14hv.webp",
   "1779929898069-x0vk74.webp",
@@ -103,6 +103,7 @@
   "1780853723641-zm5xar.webp",
   "1780853733793-glcnng.webp",
   "1780853759994-s39f7v.webp",
+  "1780853780834-t8yrld.webp",
   "1780853782040-ja7hue.webp",
   "1780853785353-skdzzh.webp",
   "1780853786390-nblbe8.webp",
@@ -119,6 +120,7 @@
   "1780853883096-1bld1m.webp",
   "1780853885159-f3x7wu.webp",
   "1780853892791-d5yuki.webp",
+  "1780853910761-0r7nf7.webp",
   "1782083303974-5qmiat.webp",
   "1782083402972-q11z3w.webp",
   "1782083454165-pcn1e2.webp",
@@ -319,6 +321,7 @@
   "1785684858548-cf0bff96-fba7-49d1-a932-fdd2b3c1eeb3.webp",
   "1785684914446-81bfdb4e-9fc9-471e-8db1-514916d61b65.webp",
   "1785684936402-cbb0bc2c-1e18-4478-9aa6-cee1a4070214.webp",
+  "1785684968004-1e3bf73d-21f4-4a59-ba8e-b81e6e55d423.webp",
   "1785685014481-fb15a2e5-b0bd-403e-bc50-9ec1d6c4bd20.webp",
   "1785685197691-5bddb9dd-7ec8-4d07-a122-77e8d6defc2b.webp",
   "1785685350602-111b3272-846c-448f-b944-8d2a6ed0ea97.webp",
@@ -337,6 +340,7 @@
   "1785707017158-1fac4cbe-94c8-4488-bc5d-7a78847c788b.webp",
   "1785707085473-b3cf4c00-bdc5-4af3-ac99-f32363939c81.webp",
   "1785724053934-4146486f-422a-420b-a1f4-bcebaec06915.webp",
+  "1785724123319-a7af292c-3151-408f-ad4b-76c0d05e7db2.webp",
   "1785724259003-da8b726c-176d-48b9-a252-b7050fbbe985.webp",
   "1785724326501-a5a1605f-a724-46b4-9c98-ea4d6b8d8a4c.webp",
   "1785724367887-24ef3f33-0409-4c4e-aafd-8868f6562e2f.webp",
@@ -358,6 +362,7 @@
   "1785862079649-567c136b-6921-426e-a579-e709117de5da.webp",
   "1785862108707-be897bb5-9a46-460a-a5dc-96aa5c15ec4c.webp",
   "1785862165347-33e1bcce-8d9c-479d-b445-3dff108c01b4.webp",
+  "1785862193957-c0fac25a-fece-4acf-8fe8-fc1f1365033f.webp",
   "1785862219902-3c2bfdda-be8f-4592-9fb4-d5b5aaa2b7ed.webp",
   "1785862266269-df478daa-b3d1-48d9-868d-4c05d96710ec.webp",
   "1785862331422-4941d11f-ed3b-4e42-b554-c105beb808e9.webp",
@@ -744,31 +749,5 @@
   "1791507767863-7feaa9b9-8294-4d8f-9959-25987f55fdb3.webp",
   "1791507785420-ee672583-dda4-4ecf-b21d-114b6e81c4cd.webp"
  ],
- "erros": {
-  "1780853780834-t8yrld.webp": {
-   "ok": false,
-   "orig": "https://uzyztsqfnymofwrazxlu.supabase.co/storage/v1/object/public/capas/1780853780834-t8yrld.png",
-   "erro": "HTTP Error 404: NOT FOUND"
-  },
-  "1780853910761-0r7nf7.webp": {
-   "ok": false,
-   "orig": "https://uzyztsqfnymofwrazxlu.supabase.co/storage/v1/object/public/capas/1780853910761-0r7nf7.jpg",
-   "erro": "HTTP Error 404: NOT FOUND"
-  },
-  "1785684968004-1e3bf73d-21f4-4a59-ba8e-b81e6e55d423.webp": {
-   "ok": false,
-   "orig": "https://uzyztsqfnymofwrazxlu.supabase.co/storage/v1/object/public/capas/capas/1785684968004-1e3bf73d-21f4-4a59-ba8e-b81e6e55d423.png",
-   "erro": "HTTP Error 404: NOT FOUND"
-  },
-  "1785724123319-a7af292c-3151-408f-ad4b-76c0d05e7db2.webp": {
-   "ok": false,
-   "orig": "https://uzyztsqfnymofwrazxlu.supabase.co/storage/v1/object/public/capas/capas/1785724123319-a7af292c-3151-408f-ad4b-76c0d05e7db2.png",
-   "erro": "HTTP Error 404: NOT FOUND"
-  },
-  "1785862193957-c0fac25a-fece-4acf-8fe8-fc1f1365033f.webp": {
-   "ok": false,
-   "orig": "https://uzyztsqfnymofwrazxlu.supabase.co/storage/v1/object/public/capas/capas/1785862193957-c0fac25a-fece-4acf-8fe8-fc1f1365033f.png",
-   "erro": "HTTP Error 404: NOT FOUND"
-  }
- }
+ "erros": {}
 }

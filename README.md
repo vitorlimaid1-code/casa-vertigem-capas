@@ -1,4 +1,4 @@
-# Capas – Casa Vertigem
+# Capas – Casa Vertigem (745 capas)
 
 Cópias das capas do catálogo da livraria (Blogger), em WebP otimizado (600 px de largura).
 O tema do site lê daqui pela CDN jsDelivr:
