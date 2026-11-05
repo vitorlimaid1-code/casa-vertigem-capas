@@ -1,0 +1,11 @@
+# Livros cadastrados em 05/11/2026 (Aliança do Reino)
+# Título | Autor | Editora | gêneros | preço | e-book | audiolivro | arquivo da capa | fonte
+Vida e obra de São Francisco de Assis | Francisco de Assis | Aliança do Reino | religião, biografia, história | 49.99 | 19.99 | 25.00 | ar-vida-e-obra-de-sao-francisco-de-assis.webp | Gutenberg: The Writings of Saint Francis of Assisi; vida conforme as biografias #18787 (Sabatier) e #6367 (Chalippe)
+A Igreja Católica e a História | Hilaire Belloc | Aliança do Reino | religião, história | 49.99 | 19.99 | 25.00 | ar-a-igreja-catolica-e-a-historia.webp | Gutenberg #78085 — The Catholic Church and History (1926)
+O maior amor do mundo | Henry Drummond | Aliança do Reino | religião, teologia | 49.99 | 19.99 | 25.00 | ar-o-maior-amor-do-mundo.webp | Gutenberg #16739 — The Greatest Thing in the World and Other Addresses
+Igreja e Estado na formação da Cristandade | T. W. Allies | Aliança do Reino | religião, história | 59.99 | 29.99 | 30.00 | ar-igreja-e-estado-na-formacao-da-cristandade.webp | Gutenberg #38537 — Church and State as Seen in the Formation of Christendom
+A verdadeira história da minha vida | Hans Christian Andersen | Aliança do Reino | biografia, literatura | 54.99 | 24.99 | 27.50 | ar-a-verdadeira-historia-da-minha-vida.webp | Gutenberg #7007 — The True Story of My Life: A Sketch (1847)
+Hinos cristãos dos três primeiros séculos | Ruth Ellis Messenger | Aliança do Reino | religião, história | 49.99 | 19.99 | 25.00 | ar-hinos-cristaos-dos-tres-primeiros-seculos.webp | Gutenberg #33160 — Christian Hymns of the First Three Centuries
+O guia de estudos bíblicos | Herman J. Heuser | Aliança do Reino | religião, teologia | 54.99 | 24.99 | 27.50 | ar-o-guia-de-estudos-biblicos.webp | Gutenberg #35682 — Chapters of Bible Study: A Popular Introduction to the Study of the Sacred Scriptures
+Para os estudantes da vida de Cristo | A. T. Robertson | Aliança do Reino | religião, teologia | 59.99 | 29.99 | 30.00 | ar-para-os-estudantes-da-vida-de-cristo.webp | Gutenberg #36264 — A Harmony of the Gospels for Students of the Life of Christ
+A Santa Sé e os povos errantes | T. W. Allies | Aliança do Reino | religião, história | 59.99 | 29.99 | 30.00 | ar-a-santa-se-e-os-povos-errantes.webp | Gutenberg #29268 — The Holy See and the Wandering of the Nations, from St. Leo I to St. Gregory I

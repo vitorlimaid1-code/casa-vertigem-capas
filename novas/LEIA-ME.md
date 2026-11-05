@@ -13,3 +13,5 @@ Exemplo: `O Morro dos Ventos Uivantes - Emily Brontë.jpg`
 
 Depois avise no chat: as capas serão otimizadas, movidas para `capas/` e os livros cadastrados no tema.
 Não mexa nos arquivos da pasta `capas/`.
+
+As capas já cadastradas ficam guardadas em `originais/` (uma pasta por lote), com a ficha de cada livro.
