@@ -1,0 +1,49 @@
+# Título | Autor | Editora | gêneros | preço | e-book | audiolivro | capa | fonte
+A mão fantasma | Joseph Sheridan Le Fanu | Ôssario | horror, clássicos | 49.99 | 19.99 | 25.00 | os-a-mao-fantasma.webp | #17769 The House by the Church-Yard — The Narrative of the Ghost of a Hand
+Tribunais e criminosos | Arthur Cheney Train | Caixa Preta | mistério, história, direito | 49.99 | 19.99 | 25.00 | cp-tribunais-e-criminosos.webp | #5268 Courts and Criminals (1912)
+Os três reféns | John Buchan | Caixa Preta | mistério, aventura | 54.99 | 24.99 | 27.50 | cp-os-tres-refens.webp | The Three Hostages (1924), domínio público
+Presente em um enforcamento | Ambrose Bierce | Caixa Preta | horror, contos | 49.99 | 19.99 | 25.00 | cp-presente-em-um-enforcamento.webp | #4387 Present at a Hanging and Other Ghost Stories
+A casa na fronteira | William Hope Hodgson | Caixa Preta | horror, clássicos | 54.99 | 24.99 | 27.50 | cp-a-casa-na-fronteira.webp | #10002 The House on the Borderland (1908)
+O cavalheiro que desapareceu | Fergus Hume | Caixa Preta | mistério, horror | 49.99 | 19.99 | 25.00 | cp-o-cavalheiro-que-desapareceu.webp | #55417 The Gentleman Who Vanished: A Psychological Phantasy
+O fantasma da Ópera | Gaston Leroux | Caixa Preta | horror, romance, clássicos | 59.99 | 29.99 | 30.00 | cp-o-fantasma-da-opera.webp | #175 The Phantom of the Opera (1910)
+Dez dias em um hospício | Nellie Bly | Caixa Preta | história, biografia | 49.99 | 19.99 | 25.00 | cp-dez-dias-em-um-hospicio.webp | #21162 Ten Days in a Mad-House (1887)
+O enigma de Piccadilly | Fergus Hume | Caixa Preta | mistério | 49.99 | 19.99 | 25.00 | cp-o-enigma-de-piccadilly.webp | #55376 The Piccadilly Puzzle: A Mysterious Story
+O médico rural | Franz Kafka | Caixa Preta | literatura, clássicos, contos | 49.99 | 19.99 | 25.00 | cp-o-medico-rural.webp | #21989 Ein Landarzt: Kleine Erzählungen (1919)
+Frankenstein | Mary Shelley | Caixa Preta | horror, ficção científica, clássicos | 54.99 | 24.99 | 27.50 | cp-frankenstein.webp | #84 Frankenstein; Or, The Modern Prometheus (1818)
+O retrato de Dorian Gray | Oscar Wilde | Caixa Preta | romance, horror, clássicos | 54.99 | 24.99 | 27.50 | cp-o-retrato-de-dorian-gray.webp | #174 The Picture of Dorian Gray (1890)
+O monge | Matthew Lewis | Caixa Preta | horror, romance, clássicos | 59.99 | 29.99 | 30.00 | cp-o-monge.webp | #601 The Monk: A Romance (1796)
+O cão dos Baskervilles | Arthur Conan Doyle | Caixa Preta | mistério, horror, clássicos | 54.99 | 24.99 | 27.50 | cp-o-cao-dos-baskervilles.webp | #2852 The Hound of the Baskervilles (1902)
+Um livro de notáveis criminosos | H. B. Irving | Caixa Preta | mistério, história, direito | 54.99 | 24.99 | 27.50 | cp-um-livro-de-notaveis-criminosos.webp | #446 A Book of Remarkable Criminals (1918)
+Contos do Egito secreto | Sax Rohmer | Caixa Preta | mistério, aventura, horror | 49.99 | 19.99 | 25.00 | cp-contos-do-egito-secreto.webp | #40108 Tales of Secret Egypt (1918)
+A última reverência de Sherlock Holmes | Arthur Conan Doyle | Caixa Preta | mistério, clássicos, contos | 54.99 | 24.99 | 27.50 | cp-a-ultima-reverencia-de-sherlock-holmes.webp | #2350 His Last Bow (1917)
+Sobre os massacres do Sul | Alexandre Dumas | Caixa Preta | história, mistério | 49.99 | 19.99 | 25.00 | cp-sobre-os-massacres-do-sul.webp | #2743 Celebrated Crimes: Massacres of the South (1551–1815)
+A múmia viva | Ambrose Pratt | Caixa Preta | horror, mistério, aventura | 54.99 | 24.99 | 27.50 | cp-a-mumia-viva.webp | #58944 The Living Mummy (1910)
+A terra da noite | William Hope Hodgson | Caixa Preta | horror, ficção científica, clássicos | 59.99 | 29.99 | 30.00 | cp-a-terra-da-noite.webp | #10662 The Night Land (1912)
+Fantasmas errantes | F. Marion Crawford | Caixa Preta | horror, contos, clássicos | 49.99 | 19.99 | 25.00 | cp-fantasmas-errantes.webp | #40386 Wandering Ghosts (1911)
+O gato preto e outros contos | Edgar Allan Poe | Caixa Preta | horror, contos, clássicos | 49.99 | 19.99 | 25.00 | cp-o-gato-preto-e-outros-contos.webp | The Works of Edgar Allan Poe (#2147–2151)
+O acampamento do cão | Algernon Blackwood | Caixa Preta | horror, contos | 49.99 | 19.99 | 25.00 | cp-o-acampamento-do-cao.webp | #22349 The Camp of the Dog (John Silence, 1908)
+Os barcos do Glen Carrig | William Hope Hodgson | Caixa Preta | horror, aventura, clássicos | 54.99 | 24.99 | 27.50 | cp-os-barcos-do-glen-carrig.webp | #10542 The Boats of the "Glen Carrig" (1907)
+O mistério da casa Raleigh | Sra. E. Burke Collins | Caixa Preta | mistério, romance | 54.99 | 24.99 | 27.50 | cp-o-misterio-da-casa-raleigh.webp | #76634 Lillian's Vow; or, The Mystery of Raleigh House
+O homem da areia | E. T. A. Hoffmann | Caixa Preta | horror, contos, clássicos | 49.99 | 19.99 | 25.00 | cp-o-homem-da-areia.webp | #6341 Nachtstücke — Der Sandmann (1816)
+A mão esquerda | Guy de Maupassant | Caixa Preta | literatura, contos, clássicos | 49.99 | 19.99 | 25.00 | cp-a-mao-esquerda.webp | #11495 La Main Gauche (1889)
+O retorno de Sherlock Holmes | Arthur Conan Doyle | Caixa Preta | mistério, clássicos, contos | 54.99 | 24.99 | 27.50 | cp-o-retorno-de-sherlock-holmes.webp | #108 The Return of Sherlock Holmes (1905)
+O devorador de almas | Henry Kuttner | Caixa Preta | horror, fantástico, contos | 49.99 | 19.99 | 25.00 | cp-o-devorador-de-almas.webp | #75363 The Eater of Souls (1937)
+Branca de Neve | Irmãos Grimm | Caixa Preta | literatura infantojuvenil, clássicos, contos | 49.99 | 19.99 | 25.00 | cp-branca-de-neve.webp | Kinder- und Hausmärchen (1812)
+O demônio | Mikhail Lermontov | Caixa Preta | poesia, clássicos, romance | 49.99 | 19.99 | 25.00 | cp-o-demonio.webp | #53329 Демон / The Demon (1842)
+O sinal dos sete pecados | William Le Queux | Caixa Preta | mistério, romance | 54.99 | 24.99 | 27.50 | cp-o-sinal-dos-sete-pecados.webp | #76685 The Sign of the Seven Sins
+O mistério do narciso | Edgar Wallace | Caixa Preta | mistério | 54.99 | 24.99 | 27.50 | cp-o-misterio-do-narciso.webp | #20912 The Daffodil Mystery (1920)
+Histórias de terror | Dick Donovan | Caixa Preta | horror, contos | 49.99 | 19.99 | 25.00 | cp-historias-de-terror.webp | #76261 Tales of Terror (1899)
+O mistério do mar | Bram Stoker | Caixa Preta | mistério, aventura, horror | 59.99 | 29.99 | 30.00 | cp-o-misterio-do-mar.webp | #42455 The Mystery of the Sea (1902)
+As colinas dos mortos | Robert E. Howard | Caixa Preta | horror, aventura, fantástico | 49.99 | 19.99 | 25.00 | cp-as-colinas-dos-mortos.webp | #77603 The Hills of the Dead (Weird Tales, 1930)
+O julgamento de William Palmer | George H. Knott | Caixa Preta | mistério, história, direito | 54.99 | 24.99 | 27.50 | cp-o-julgamento-de-william-palmer.webp | #52264 Trial of William Palmer (1912)
+A máscara da morte vermelha | Edgar Allan Poe | Caixa Preta | horror, contos, clássicos | 49.99 | 19.99 | 25.00 | cp-a-mascara-da-morte-vermelha.webp | #1064 The Masque of the Red Death
+A mão que acena e outras histórias | Grant Allen | Caixa Preta | mistério, contos | 49.99 | 19.99 | 25.00 | cp-a-mao-que-acena-e-outras-historias.webp | #38531 The Beckoning Hand and Other Stories (1887)
+Trinta histórias estranhas | H. G. Wells | Caixa Preta | ficção científica, contos, clássicos | 59.99 | 29.99 | 30.00 | cp-trinta-historias-estranhas.webp | #59774 Thirty Strange Stories (1897)
+A toca do verme branco | Bram Stoker | Caixa Preta | horror, clássicos | 54.99 | 24.99 | 27.50 | cp-a-toca-do-verme-branco.webp | #1188 The Lair of the White Worm (1911)
+Os assassinatos da rua Morgue | Edgar Allan Poe | Caixa Preta | mistério, contos, clássicos | 49.99 | 19.99 | 25.00 | cp-os-assassinatos-da-rua-morgue.webp | The Works of Edgar Allan Poe (#2147–2151)
+Os três impostores | Arthur Machen | Caixa Preta | horror, mistério, clássicos | 54.99 | 24.99 | 27.50 | cp-os-tres-impostores.webp | #35517 The Three Impostors (1895)
+O signo dos quatro | Arthur Conan Doyle | Caixa Preta | mistério, clássicos | 54.99 | 24.99 | 27.50 | cp-o-signo-dos-quatro.webp | #2097 The Sign of the Four (1890)
+A queda | Émile Zola | Caixa Preta | literatura, história, clássicos | 59.99 | 29.99 | 30.00 | cp-a-queda.webp | #13851 The Downfall (La Débâcle, 1892)
+O encouraçado deslocado | Harry Harrison | Caixa Preta | ficção científica, aventura | 49.99 | 19.99 | 25.00 | cp-o-encouracado-deslocado.webp | #22541 The Misplaced Battleship (1965)
+O quarto número 13 | Edgar Wallace | Caixa Preta | mistério | 54.99 | 24.99 | 27.50 | cp-o-quarto-numero-13.webp | #76168 Room 13 (1924)
+As confissões de Arsène Lupin | Maurice Leblanc | Caixa Preta | mistério, aventura, contos | 54.99 | 24.99 | 27.50 | cp-as-confissoes-de-arsene-lupin.webp | #6133 The Confessions of Arsène Lupin (1913)

@@ -1,0 +1,55 @@
+# Título | Autor | Editora | gêneros | preço | e-book | audiolivro | capa | fonte
+Cartas filosóficas | Voltaire | Saber Central | filosofia, clássicos | 49.99 | 19.99 | 25.00 | sc-cartas-filosoficas.webp | Lettres philosophiques (1734)
+Autoerotismo | Havelock Ellis | Saber Central | psicologia, ciências sociais | 49.99 | 19.99 | 25.00 | sc-autoerotismo.webp | #13610 Studies in the Psychology of Sex, Vol. 1
+Oferta e demanda | Hubert Douglas Henderson | Saber Central | finanças, ciências sociais | 49.99 | 19.99 | 25.00 | sc-oferta-e-demanda.webp | #10612 Supply and Demand (1922)
+O pivô da civilização | Margaret Sanger | Saber Central | ciências sociais, política, história | 49.99 | 19.99 | 25.00 | sc-o-pivo-da-civilizacao.webp | #1689 The Pivot of Civilization (1922)
+Novos ensaios sobre o entendimento humano | G. W. Leibniz | Saber Central | filosofia, clássicos | 59.99 | 29.99 | 30.00 | sc-novos-ensaios-sobre-o-entendimento-humano.webp | Nouveaux essais sur l'entendement humain (1765)
+Gramíneas: um manual para uso em campo e laboratório | H. Marshall Ward | Saber Central | ciências, botânica | 54.99 | 24.99 | 27.50 | sc-gramineas-um-manual-para-uso-em-campo-e-laboratorio.webp | #47898 Grasses: A Handbook for Use in the Field and Laboratory (1901)
+As leis | Platão | Saber Central | filosofia, clássicos, direito | 59.99 | 29.99 | 30.00 | sc-as-leis.webp | #1750 Laws
+A natureza humana e a ordem social | Charles Horton Cooley | Saber Central | ciências sociais, filosofia | 54.99 | 24.99 | 27.50 | sc-a-natureza-humana-e-a-ordem-social.webp | #75145 Human Nature and the Social Order (1902)
+Sobre a natureza | Anaximandro | Saber Central | filosofia, clássicos | 49.99 | 19.99 | 25.00 | sc-sobre-a-natureza.webp | Fragmentos e testemunhos (Diels-Kranz 12)
+Uma visão geral do positivismo | Auguste Comte | Saber Central | filosofia, ciências sociais | 54.99 | 24.99 | 27.50 | sc-uma-visao-geral-do-positivismo.webp | #53799 A General View of Positivism
+Três ensaios sobre a teoria sexual | Sigmund Freud | Saber Central | psicologia, ciências sociais | 49.99 | 19.99 | 25.00 | sc-tres-ensaios-sobre-a-teoria-sexual.webp | #14969 Three Contributions to the Theory of Sex (1905)
+A filtração do abastecimento público de água | Allen Hazen | Saber Central | ciências, engenharia | 54.99 | 24.99 | 27.50 | sc-a-filtracao-do-abastecimento-publico-de-agua.webp | #69025 The Filtration of Public Water-Supplies
+A psicologia do inconsciente | C. G. Jung | Saber Central | psicologia, filosofia | 59.99 | 29.99 | 30.00 | sc-a-psicologia-do-inconsciente.webp | #65903 Psychology of the Unconscious
+A psicologia das multidões | Gustave Le Bon | Saber Central | psicologia, ciências sociais, política | 49.99 | 19.99 | 25.00 | sc-a-psicologia-das-multidoes.webp | #445 The Crowd: A Study of the Popular Mind (1895)
+A vida de Dante | Giovanni Boccaccio | Saber Central | biografia, clássicos, história | 49.99 | 19.99 | 25.00 | sc-a-vida-de-dante.webp | Trattatello in laude di Dante
+À paz perpétua | Immanuel Kant | Saber Central | filosofia, política, clássicos | 49.99 | 19.99 | 25.00 | sc-a-paz-perpetua.webp | #50922 Perpetual Peace (1795)
+Sobre a inversão sexual | Havelock Ellis | Saber Central | psicologia, ciências sociais | 54.99 | 24.99 | 27.50 | sc-sobre-a-inversao-sexual.webp | #13611 Studies in the Psychology of Sex, Vol. 2: Sexual Inversion
+A sexualidade feminina | Havelock Ellis | Saber Central | psicologia, ciências sociais | 49.99 | 19.99 | 25.00 | sc-a-sexualidade-feminina.webp | #13612 Studies in the Psychology of Sex, Vol. 3: The Sexual Impulse in Women
+Introdução ao estudo da história | Charles-Victor Langlois e Charles Seignobos | Saber Central | história, ciências sociais | 54.99 | 24.99 | 27.50 | sc-introducao-ao-estudo-da-historia.webp | Introduction to the Study of History (1898)
+Tratado sobre os princípios do conhecimento humano | George Berkeley | Saber Central | filosofia, clássicos | 49.99 | 19.99 | 25.00 | sc-tratado-sobre-os-principios-do-conhecimento-humano.webp | #4723 A Treatise Concerning the Principles of Human Knowledge (1710)
+O espírito das leis | Montesquieu | Saber Central | filosofia, política, direito | 59.99 | 29.99 | 30.00 | sc-o-espirito-das-leis.webp | De l'esprit des lois (1748)
+A genealogia da moral | Friedrich Nietzsche | Saber Central | filosofia, clássicos | 49.99 | 19.99 | 25.00 | sc-a-genealogia-da-moral.webp | #52319 The Genealogy of Morals (1887)
+A arte da guerra | Nicolau Maquiavel | Saber Central | filosofia, política, história | 49.99 | 19.99 | 25.00 | sc-a-arte-da-guerra.webp | Dell'arte della guerra (1521)
+Das revoluções dos orbes celestes | Nicolau Copérnico | Saber Central | ciências, história, clássicos | 59.99 | 29.99 | 30.00 | sc-das-revolucoes-dos-orbes-celestes.webp | De revolutionibus orbium coelestium (1543)
+Investigação sobre o entendimento humano | David Hume | Saber Central | filosofia, clássicos | 49.99 | 19.99 | 25.00 | sc-investigacao-sobre-o-entendimento-humano.webp | #9662 An Enquiry Concerning Human Understanding (1748)
+Crítica da razão prática | Immanuel Kant | Saber Central | filosofia, clássicos | 54.99 | 24.99 | 27.50 | sc-critica-da-razao-pratica.webp | #5683 The Critique of Practical Reason (1788)
+Protágoras | Platão | Saber Central | filosofia, clássicos | 49.99 | 19.99 | 25.00 | sc-protagoras.webp | #1591 Protagoras
+Corpus hipocrático | Hipócrates | Saber Central | ciências, história, clássicos | 54.99 | 24.99 | 27.50 | sc-corpus-hipocratico.webp | #72583 The Genuine Works of Hippocrates
+Os elementos | Euclides | Saber Central | ciências, matemática, clássicos | 59.99 | 29.99 | 30.00 | sc-os-elementos.webp | #21076 The First Six Books of the Elements of Euclid
+O impulso sexual | Havelock Ellis | Saber Central | psicologia, ciências sociais | 49.99 | 19.99 | 25.00 | sc-o-impulso-sexual.webp | #13612 Studies in the Psychology of Sex, Vol. 3: Analysis of the Sexual Impulse
+A mente do homem primitivo | Franz Boas | Saber Central | ciências sociais, história | 54.99 | 24.99 | 27.50 | sc-a-mente-do-homem-primitivo.webp | #71630 The Mind of Primitive Man (1911)
+Manifesto comunista | Karl Marx | Saber Central | política, filosofia, história | 49.99 | 19.99 | 25.00 | sc-manifesto-comunista.webp | #61 The Communist Manifesto (1848)
+Poética | Aristóteles | Saber Central | filosofia, clássicos, literatura | 49.99 | 19.99 | 25.00 | sc-poetica.webp | #1974 The Poetics
+Notas sobre o programa operário alemão | Karl Marx | Saber Central | política, filosofia | 49.99 | 19.99 | 25.00 | sc-notas-sobre-o-programa-operario-alemao.webp | Kritik des Gothaer Programms (1875)
+Sobre os direitos do homem | Thomas Paine | Saber Central | política, filosofia, história | 54.99 | 24.99 | 27.50 | sc-sobre-os-direitos-do-homem.webp | #3742 Rights of Man (1791)
+O casamento | Havelock Ellis | Saber Central | psicologia, ciências sociais | 49.99 | 19.99 | 25.00 | sc-o-casamento.webp | #13615 Studies in the Psychology of Sex, Vol. 6: Sex in Relation to Society
+O capital — Livro I | Karl Marx | Saber Central | finanças, política, filosofia | 59.99 | 29.99 | 30.00 | sc-o-capital-livro-i.webp | Das Kapital, Band I (1867)
+Conflitos salariais | Herbert Feis | Saber Central | finanças, ciências sociais, direito | 54.99 | 24.99 | 27.50 | sc-conflitos-salariais.webp | #27519 The Settlement of Wage Disputes (1921)
+A genealogia do fascismo | Aline Lion | Saber Central | política, história, filosofia | 54.99 | 24.99 | 27.50 | sc-a-genealogia-do-fascismo.webp | #77090 The Pedigree of Fascism (1927)
+Histórias | Heródoto | Saber Central | história, clássicos | 59.99 | 29.99 | 30.00 | sc-historias.webp | #2707 The History of Herodotus
+A vontade de crer e outros ensaios | William James | Saber Central | filosofia, psicologia, religião | 54.99 | 24.99 | 27.50 | sc-a-vontade-de-crer-e-outros-ensaios.webp | #26659 The Will to Believe (1897)
+Princípios da filosofia | René Descartes | Saber Central | filosofia, clássicos, ciências | 54.99 | 24.99 | 27.50 | sc-principios-da-filosofia.webp | #4391 Selections from the Principles of Philosophy
+Sobre o fundamento da moral | Arthur Schopenhauer | Saber Central | filosofia, clássicos | 49.99 | 19.99 | 25.00 | sc-sobre-o-fundamento-da-moral.webp | #44929 The Basis of Morality
+Estudos sobre a psicologia do sexo | Havelock Ellis | Saber Central | psicologia, ciências sociais | 59.99 | 29.99 | 30.00 | sc-estudos-sobre-a-psicologia-do-sexo.webp | #13610–13615 Studies in the Psychology of Sex
+O humor e sua relação com o inconsciente | Sigmund Freud | Saber Central | psicologia, filosofia | 54.99 | 24.99 | 27.50 | sc-o-humor-e-sua-relacao-com-o-inconsciente.webp | #75915 Wit and its Relation to the Unconscious
+Da natureza das coisas | Lucrécio | Saber Central | filosofia, poesia, clássicos | 54.99 | 24.99 | 27.50 | sc-da-natureza-das-coisas.webp | #785 On the Nature of Things
+As lutas de classes na França | Karl Marx | Saber Central | política, história, filosofia | 49.99 | 19.99 | 25.00 | sc-as-lutas-de-classes-na-franca.webp | Die Klassenkämpfe in Frankreich 1848 bis 1850
+Almagesto | Ptolomeu | Saber Central | ciências, história, clássicos | 59.99 | 29.99 | 30.00 | sc-almagesto.webp | Mathematike Syntaxis (séc. II)
+Pequenos ensaios sobre amor e virtude | Havelock Ellis | Saber Central | filosofia, psicologia | 49.99 | 19.99 | 25.00 | sc-pequenos-ensaios-sobre-amor-e-virtude.webp | #15687 Little Essays of Love and Virtue (1922)
+Sobre o livre-arbítrio | Santo Agostinho | Saber Central | filosofia, religião, clássicos | 49.99 | 19.99 | 25.00 | sc-sobre-o-livre-arbitrio.webp | De libero arbitrio (388–395)
+O capital — Livro II | Karl Marx | Saber Central | finanças, política, filosofia | 59.99 | 29.99 | 30.00 | sc-o-capital-livro-ii.webp | Das Kapital, Band II (1885)
+O vagabundo: a sociologia do homem sem teto | Nels Anderson | Saber Central | ciências sociais | 54.99 | 24.99 | 27.50 | sc-o-vagabundo-a-sociologia-do-homem-sem-teto.webp | #67300 The Hobo: The Sociology of the Homeless Man (1923)
+O mal-estar na civilização | Sigmund Freud | Saber Central | psicologia, filosofia, ciências sociais | 49.99 | 19.99 | 25.00 | sc-o-mal-estar-na-civilizacao.webp | #78221 Civilization and its Discontents (1930)
+História do Brasil | Frei Vicente do Salvador | Saber Central | história, clássicos | 54.99 | 24.99 | 27.50 | sc-historia-do-brasil.webp | História do Brasil (1627; ed. Capistrano de Abreu, 1888)
